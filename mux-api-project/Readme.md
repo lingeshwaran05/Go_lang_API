@@ -51,3 +51,5 @@ go run main.go
 ### You will get promoted with a message in the terminal. Something like this
 > open a web browser and navigate to http://localhost:8080
 ### output will be 
+![ouput](https://user-images.githubusercontent.com/76167753/224690462-e676e8dd-b7fc-4ced-9726-66eefa427ddc.png)
+
