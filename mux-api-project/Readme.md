@@ -1,5 +1,6 @@
 # Golang Api
 ## Creating Hello world api from mux package using golang
+## Credit @pradumnasaraf
 ### Prerequisites
 > - Go installed on your system
 > - A code editor -> VScode
